@@ -12,5 +12,6 @@
 
     <AppIcon name="com.afollestad.polar/com.afollestad.polar.ui.MainActivity"
         image="polar" />
-
+    <AppIcon name="acfunh.yoooo.org/acfunh.yoooo.org.MainActivity"
+        image="acfun" />
 </Theme>

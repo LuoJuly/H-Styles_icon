@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:enabled="true"
+        android:icon="@drawable/xypjq"
+        android:shortcutId="coolapk"
+        android:shortcutDisabledMessage="@string/shortcut_disabled"
+        android:shortcutLongLabel="@string/menu_label"
+        android:shortcutShortLabel="@string/launcher_label">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.coolapk.market.view.main.MainActivity"
+            android:targetPackage="com.coolapk.market"/>
+    </shortcut>
+</shortcuts>
