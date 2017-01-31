@@ -34,11 +34,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.afollestad.polar"
+        applicationId "cn.luojuly.H2OS"
         minSdkVersion 19
         targetSdkVersion TARGET_SDK
-        versionCode 31
-        versionName "1.8.1"
+        versionCode 13
+        versionName "2.2"
 
         vectorDrawables.useSupportLibrary = true
     }
