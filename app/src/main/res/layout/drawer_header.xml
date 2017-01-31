@@ -6,5 +6,6 @@
     android:background="?colorAccent"
     android:contentDescription="Navigation drawer header"
     android:orientation="vertical"
-    android:scaleType="fitXY"
+    android:scaleType="centerCrop"
+    android:src="@drawable/oneplus"
     tools:ignore="HardcodedText" />

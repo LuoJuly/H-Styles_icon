@@ -44,7 +44,7 @@
             android:textStyle="italic"
             android:visibility="gone"
             tools:ignore="UnusedAttribute"
-            tools:text="Loading apps…"
+            tools:text="Loading apps"
             tools:visibility="visible" />
 
     </LinearLayout>
