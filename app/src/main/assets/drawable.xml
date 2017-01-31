@@ -3,41 +3,664 @@
     <version>1</version>
 
     <category title="New Icons" />
-    <item drawable="polar" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="half_indigo" />
+	<!-- 微软必应 -->
+<item drawable="bing"/>
+<!-- AIDE -->
+<item drawable="aide"/>
+<!-- Alto -->
+<item drawable="alto"/>
+<!-- Chrome -->
+<item drawable="chrome"/>
+<!-- Chrome Beta -->
+<item drawable="chrome_beta"/>
+<!-- Chrome Dev -->
+<item drawable="chrome_dev"/>
+<!-- Google -->
+<item drawable="google"/>
 
 
-    <category title="Google Icons" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="full_yellow" />
-    <item drawable="full_green" />
-    <item drawable="full_blue" />
-    <item drawable="full_indigo" />
-    <item drawable="half_pink" />
-    <item drawable="half_orange" />
-    <item drawable="half_yellow" />
-    <item drawable="half_green" />
-    <item drawable="half_blue" />
-    <item drawable="half_indigo" />
+	
+
 
 
     <category title="All Icons" />
-    <item drawable="full_pink" />
-    <item drawable="full_orange" />
-    <item drawable="full_yellow" />
-    <item drawable="full_green" />
-    <item drawable="full_blue" />
-    <item drawable="full_indigo" />
-    <item drawable="half_pink" />
-    <item drawable="half_orange" />
-    <item drawable="half_yellow" />
-    <item drawable="half_green" />
-    <item drawable="half_blue" />
-    <item drawable="half_indigo" />
-    <item drawable="polar" />
+    <item drawable="acfun" />
+    <item drawable="apktool" />
+    <item drawable="apollo" />
+    <item drawable="aqy" />
+    <item drawable="bdsrf" />
+    <item drawable="bdy" />
+    <item drawable="browser" />
+    <item drawable="calculator" />
+    <item drawable="camera" />
+    <item drawable="chuizibq" />
+    <item drawable="contacts" />
+    <item drawable="down" />
+    <item drawable="dx" />
+    <item drawable="filemanager" />
+    <item drawable="apollo" />
+    <item drawable="itzj" />
+    <item drawable="jrtt" />
+    <item drawable="kd100" />
+    <item drawable="phone" />
+    <item drawable="qq" />
+    <item drawable="qqaqzx" />
+    <item drawable="qqgj" />
+    <item drawable="qqmusic" />
+    <item drawable="settings" />
+    <item drawable="simka" />
+    <item drawable="supersu" />
+    <item drawable="zy" />
+    <item drawable="zzyx" />
+    <item drawable="re" />
+    <item drawable="tb" />
+    <item drawable="gravitybox" />
+    <item drawable="xypjq" />
+    <item drawable="bmck" />
+    <item drawable="jingdong" />
+    <item drawable="email" />
+    <item drawable="perfectcolorbar" />
+    <item drawable="clock" />
+    <item drawable="qqllq" />
+    <item drawable="zsbtb" />
+    <item drawable="weibo" />
+    <item drawable="albql" />
+    <item drawable="gallery" />
+    <item drawable="plszsq" />
+    <item drawable="xianyu" />
+    <item drawable="tbf" />
+    <item drawable="alipay" />
+    <item drawable="baidwm" />
+    <item drawable="wpf" />
+    <item drawable="baidudaohang" />
+    <item drawable="baidufanyi" />
+    <item drawable="baidullq" />
+    <item drawable="baidunuom" />
+    <item drawable="baiduwenku" />
+    <item drawable="baidyiny" />
+    <item drawable="bddt" />
+    <item drawable="bdspin" />
+    <item drawable="ttzgj" />
+    <item drawable="jhds" />
+    <item drawable="zhangshanglol" />
+    <item drawable="albeaqds" />
+    <item drawable="tm" />
+    <item drawable="zhangy" />
+    <item drawable="xl" />
+    <item drawable="wzry" />
+    <item drawable="qqsrf" />
+    <item drawable="qqtbsz" />
+    <item drawable="qqyuedu" />
+    <item drawable="qqyx" />
+    <item drawable="elm" />
+    <item drawable="antutu" />
+    <item drawable="hy" />
+    <item drawable="wnyaoshi" />
+    <item drawable="youku" />
+    <item drawable="liebaollq" />
+    <item drawable="ls" />
+    <item drawable="meit" />
+    <item drawable="txsp" />
+    <item drawable="wdj" />
+    <item drawable="youku" />
+    <item drawable="zhongguoyinhang" />
+    <item drawable="txdt" />
+    <item drawable="sxsrf" />
+    <item drawable="ltyyt" />
+    <item drawable="bukadonghua" />
+    <item drawable="cfsy" />
+    <item drawable="chushoutv" />
+    <item drawable="lzzb" />
+    <item drawable="azt" />
+    <item drawable="jiaxydt" />
+    <item drawable="jkbdian" />
+    <item drawable="zgc" />
+    <item drawable="nova" />
+    <item drawable="flashplayer" />
+    <item drawable="wangyiyx" />
+    <item drawable="wps" />
+    <item drawable="xmlyfm" />
+    <item drawable="xmyy" />
+    <item drawable="zscyhx" />
+    <item drawable="alilvxing" />
+    <item drawable="aliqd" />
+    <item drawable="apkbianjiq" />
+    <item drawable="azbz" />
+    <item drawable="budingdh" />
+    <item drawable="jiaotongyh" />
+    <item drawable="mtxx" />
+    <item drawable="qzone" />
+    <item drawable="txvpn" />
+    <item drawable="zgjsyh" />
+    <item drawable="zuimeitianqi" />
+    <item drawable="xmtv" />
+    <item drawable="txdm" />
+    <item drawable="ylztsy" />
+    <item drawable="weather"/>
+    <item drawable="weather_alt_cloudy"/>
+    <item drawable="weather_alt_overcast"/>
+    <item drawable="weather_alt_sunny"/>
+    <item drawable="weather_alt_rain"/>
+    <item drawable="weather_alt_sandstrom"/>
+    <item drawable="weather_alt_snow"/>
+	<item drawable="map1"/>
+    <item drawable="map2"/>
+    <item drawable="browser_alt_1"/>
+    <item drawable="browser_alt_2"/>
+    <item drawable="xiecheng"/>
+	<item drawable="anjuke" />
+    <item drawable="androidesk"/>
+    <item drawable="bddt_alt"/>
+    <item drawable="baidutranslate"/>
+    <item drawable="babytree"/>
+    <item drawable="dazhihui"/>
+    <item drawable="pengpeng"/>
+    <item drawable="autohomemycar"/>
+    <item drawable="baiduhomework"/>
+    <item drawable="anzogamelol"/>
+    <item drawable="autoconnectwifi"/>
+	<item drawable="store"/>
+	<item drawable="alibaba"/>
+    <item drawable="aliwangxin"/>
+    <item drawable="baiduws"/>
+    <item drawable="bdmotu"/>
+    <item drawable="clcwz"/>
+    <item drawable="dayxk"/>
+    <item drawable="douyutv"/>
+    <item drawable="dxdoctor"/>
+    <item drawable="fkchengyu"/>
+    <item drawable="footji"/>
+    <item drawable="fyzb"/>
+	<item drawable="jane" />
+    <item drawable="kuwots"/>
+    <item drawable="kwmusic"/>
+    <item drawable="lanrts"/>
+    <item drawable="lmusic"/>
+    <item drawable="majiax"/>
+    <item drawable="manhuadao"/>
+    <item drawable="photohcq"/>
+    <item drawable="qqnc"/>
+    <item drawable="shanc"/>
+    <item drawable="vipshop"/>
+	<item drawable="zhaodx"/>
+	<item drawable="zsbank"/>
+	<item drawable="recorder"/>
+	<item drawable="tuner"/>
+	<item drawable="canlendar" />
+    <item drawable="cardpackage"/>
+    <item drawable="community"/>
+    <item drawable="doctor"/>
+    <item drawable="hydrogen"/>
+	<item drawable="usersfeedback"/>
+	<item drawable="tb_alt"/>
+	<item drawable="baidusearch"/>
+	<item drawable="baiduyuedu"/>
+    <item drawable="taobao" />
+	<item drawable="qqlite" />
+	<item drawable="dengshansaiche"/>
+    <item drawable="baojijiangshi"/>/>
+    <item drawable="dengshansaiche_tianchaolixian"/>
+    <item drawable="fengxingshipin"/>
+    <item drawable="ganjiwang"/>
+	<item drawable="jiesha_jinhua"/>
+	<item drawable="kuangyebiaoche_eight"/>
+	<item drawable="meilipai"/>
+	<item drawable="xiaohuangrenkuaipao_guojiangban"/>
+	<item drawable="tiantian__jiejibuyu"/>
+	<item drawable="wuwangwo"/>
+	<item drawable="xiaoyuansouti"/>
+	<item drawable="yuantiku"/>
+	<item drawable="a3d_fjdz"/>
+    <item drawable="aijiaoyu"/>
+    <item drawable="baicizhan"/>
+    <item drawable="beibei"/>
+    <item drawable="dtkp"/>
+	<item drawable="diguo__ol"/>
+	<item drawable="dizun"/>
+	<item drawable="diosman"/>
+	<item drawable="gtgj"/>
+	<item drawable="gdjh"/>
+	<item drawable="huluxia"/>
+	<item drawable="huluxia3lou"/>
+	<item drawable="jkbd"/>
+	<item drawable="jxydt"/>
+	<item drawable="js_ciba"/>
+    <item drawable="js_dianchi"/>
+    <item drawable="jumei"/>
+    <item drawable="kxszx"/>
+    <item drawable="kxxxl"/>
+	<item drawable="kaixun_vedio"/>
+	<item drawable="kjys_yxcs"/>
+	<item drawable="kdsw"/>
+	<item drawable="kugou"/>
+	<item drawable="kuyin_ring"/>
+	<item drawable="kandian"/>
+	<item drawable="liebao_browser"/>
+	<item drawable="mg__tv"/>
+	<item drawable="meishijie"/>
+	<item drawable="mizhe"/>
+	<item drawable="wardrobe"/>
+    <item drawable="momo"/>
+    <item drawable="paipai"/>
+    <item drawable="pinlide"/>
+    <item drawable="qiesg2"/>
+	<item drawable="rxjb_3d"/>
+	<item drawable="w__run"/>
+	<item drawable="sjjy"/>
+	<item drawable="fruit_ninja"/>
+	<item drawable="ths"/>
+	<item drawable="wcjzlc"/>
+	<item drawable="weidian"/>
+	<item drawable="weidian_buyer"/>
+	<item drawable="wenzisp"/>
+	<item drawable="xmxx"/>
+    <item drawable="xcm2"/>
+    <item drawable="xcm_xdkp"/>
+    <item drawable="xunfei_input"/>
+    <item drawable="ybyq"/>
+	<item drawable="icbc"/>
+	<item drawable="echo"/>
+	<item drawable="in"/>
+	<item drawable="temple_run2"/>
+	<item drawable="carrotfantasy"/>
+    <item drawable="carroticeworld"/>
+    <item drawable="huijiao"/>
+    <item drawable="boyaalordland"/>
+	<item drawable="changba"/>
+	<item drawable="centurysoftfruityrobo"/>
+	<item drawable="boyaaengineddz"/>
+	<item drawable="brianbaekpopsta"/>
+	<item drawable="ireaderfree"/>
+	<item drawable="chinabank"/>
+	<item drawable="sanzaiyun"/>
+	<item drawable="changba"/>
+	<item drawable="smartdialer"/>
+	<item drawable="culiukeji"/>
+	<item drawable="dangdangbuy"/>
+	<item drawable="dangdangreader"/>
+    <item drawable="dashengtalk"/>
+    <item drawable="ccbcompanybank"/>
+    <item drawable="junqi"/>
+	<item drawable="coohuaclient"/>
+	<item drawable="baojiazhijia"/>
+	<item drawable="autohome"/>
+	<item drawable="cleanmaster"/>
+	<item drawable="youperfect"/>
+	<item drawable="pomelo"/>
+	<item drawable="xiangqi"/>
+	<item drawable="duomir"/>
+	<item drawable="duowa"/>
+	<item drawable="disneychukong"/>
+	<item drawable="duoduochildstory"/>
+	<item drawable="fanli"/>
+    <item drawable="kuaiya"/>
+    <item drawable="eastmoney"/>
+    <item drawable="onetouchdrawing"/>
+	<item drawable="dwunity"/>
+	<item drawable="disneytroz"/>
+	<item drawable="yy"/>
+	<item drawable="tsz_clean"/>
+    <item drawable="tsz_weishi"/>
+    <item drawable="moxiu_launcher"/>
+    <item drawable="m1905"/>
+	<item drawable="tsz_browser"/>
+	<item drawable="tsz_freewifi"/>
+	<item drawable="tsz_geek"/>
+	<item drawable="tsz_yunpan"/>
+	<item drawable="tsz_launcher"/>
+	<item drawable="mmshow"/>
+	<item drawable="ttpod"/>
+	<item drawable="iqiyi"/>
+	<item drawable="babaqne2"/>
+	<item drawable="baidu_nuomi"/>
+	<item drawable="babyting"/>
+	<item drawable="qiyimao_aoteman"/>
+    <item drawable="runningman2"/>
+    <item drawable="bzcp"/>
+    <item drawable="bgxxl"/>
+	<item drawable="bxqy_bfb"/>
+	<item drawable="city_race"/>
+	<item drawable="djddz"/>
+	<item drawable="dlddz"/>
+	<item drawable="fgpzbz"/>
+	<item drawable="breath_of_light"/>
+	<item drawable="hlddz"/>
+	<item drawable="hlmajiang"/>
+	<item drawable="anger_of_stick2"/>
+	<item drawable="anyshare"/>
+	<item drawable="buyu10002"/>
+	<item drawable="pplive"/>
+    <item drawable="kdjz"/>
+	<item drawable="kugou_ring"/>
+    <item drawable="kugou___fm"/>
+    <item drawable="gifmaker"/>
+    <item drawable="letv"/>
+	<item drawable="liwushuo"/>
+	<item drawable="lianlian"/>
+	<item drawable="ring_duoduo"/>
+	<item drawable="netease_ldxy"/>
+	<item drawable="netease_tjo"/>
+	<item drawable="meila"/>
+	<item drawable="meilishuo"/>
+	<item drawable="meipai"/>
+	<item drawable="mt_mttt"/>
+	<item drawable="mt_mtxx"/>
+	<item drawable="meiyan_camera"/>
+	<item drawable="meiyou"/>
+    <item drawable="netease_my"/>
+	<item drawable="mogujie"/>
+	<item drawable="headportrait"/>
+	<item drawable="mj_weather"/>
+	<item drawable="medapp_man"/>
+	<item drawable="pplive"/>
+    <item drawable="naolidaren"/>
+	<item drawable="ngw_stock"/>
+    <item drawable="medapp"/>
+    <item drawable="nndhzwy"/>
+    <item drawable="soulgame_bubble"/>
+	<item drawable="rencaia"/>
+	<item drawable="rong360_dk"/>
+	<item drawable="sanguosha"/>
+	<item drawable="shaoniansgz"/>
+	<item drawable="linekong_cjad"/>
+	<item drawable="unicom"/>
+	<item drawable="shuqi"/>
+	<item drawable="sogou_map"/>
+	<item drawable="sogou_input"/>
+	<item drawable="sohu_video"/>
+	<item drawable="sohu_tv"/>
+    <item drawable="sohu_news"/>
+	<item drawable="taiji_panda"/>
+	<item drawable="taofen8"/>
+	<item drawable="tiantian_kupao"/>
+	<item drawable="mobile__ticket"/>
+	<item drawable="mapbar"/>
+    <item drawable="wmdgq"/>
+	<item drawable="netease_music"/>
+    <item drawable="mojang_minecraftpe"/>
+    <item drawable="pfu_popstar"/>
+    <item drawable="xiaoying_video"/>
+	<item drawable="lxd_bwjy"/>
+	<item drawable="ylmf_yplayer"/>
+	<item drawable="comrytongbankps"/>
+	<item drawable="quicklyask"/>
+	<item drawable="metek_mobilezt"/>
+	<item drawable="popcap_pvz2cthdop"/>
+	<item drawable="popcap_pvzthird"/>
+	<item drawable="pvzsuper"/>
+	<item drawable="oppo_theme"/>
+	<item drawable="lt_lighting"/>
+	<item drawable="pinguo_mix"/>
+    <item drawable="nice_main"/>
+    <item drawable="adm"/>
+	<!-- 115 -->
+<item drawable="ylmf"/>
+<!-- 1号店 -->
+<item drawable="thestore"/>
+<!-- 3D摩托飞车 -->
+<item drawable="xiaoao_moto3donline"/>
+<!-- 3D终极车神2 -->
+<item drawable="race2_3d"/>
+<!-- 51用车 -->
+<item drawable="shuailai_yongche"/>
+<!-- 58同城 -->
+<item drawable="wuba"/>
+<!-- 爱奇艺PPS -->
+<item drawable="tv_pps"/>
+<!-- 百度音乐 -->
+<item drawable="baidu_music"/>
+<!-- 暴风影音 -->
+<item drawable="storm_smart"/>
+<!-- 哔哩哔哩动画 -->
+<item drawable="bili_tv"/>
+<!-- 别踩白块儿 -->
+<item drawable="umonistudio_tile"/>
+<!-- 捕鱼达人2 -->
+<item drawable="fishingjoy2"/>
+<!-- 捕鱼达人3 -->
+<item drawable="fishingjoy3"/>
+<!-- 财付通 -->
+<item drawable="tenpay"/>
+<!-- 储蓄罐 -->
+<item drawable="howbuy"/>
+<!-- 穿衣助手 -->
+<item drawable="yourdream"/>
+<!-- 春雨医生 -->
+<item drawable="chunyu"/>
+<!-- 大姨吗 -->
+<item drawable="dayima"/>
+<!-- 疯狂的麦咭 -->
+<item drawable="crazymagic"/>
+<!-- 附近约爱 -->
+<item drawable="youyuan_mmsp"/>
+<!-- 割绳子2 -->
+<item drawable="yodo1_ctr2"/>
+<!-- 海岛奇兵 -->
+<item drawable="supercell_boombeach"/>
+<!-- 滑雪大冒险 -->
+<item drawable="skisafari"/>
+<!-- 僵尸尖叫 -->
+<item drawable="zombietsunami"/>
+<!-- 娇羞-情趣助手 -->
+<item drawable="jiaoxiu"/>
+<!-- 节奏大师 -->
+<item drawable="rhythmmaster"/>
+<!-- 卷皮折扣 -->
+<item drawable="juanpi"/>
+<!-- 快读 -->
+<item drawable="kuaidu"/>
+<!-- 辣妈帮 -->
+<item drawable="mamahelp"/>
+<!-- 篮球NBA2K14 -->
+<item drawable="nba2k14"/>
+<!-- 乐蜂网 -->
+<item drawable="yek_lafaso"/>
+<!-- 雷霆战机 -->
+<item drawable="tencent_clover"/>
+<!-- 荔枝FM直播 -->
+<item drawable="lizhifm"/>
+<!-- 路友同行 -->
+<item drawable="lytx"/>
+<!-- 麻将美女馆 -->
+<item drawable="girlmj"/>
+<!-- 美人相机 -->
+<item drawable="beautycamera"/>
+<!-- 米聊 -->
+<item drawable="xiaomi_channel"/>
+<!-- 抹茶美妆 -->
+<item drawable="mocha"/>
+<!-- 男生女生向前冲 -->
+<item drawable="nsnsxqc"/>
+<!-- 内涵段子 -->
+<item drawable="essay_joke"/>
+<!-- 汽车报价大全 -->
+<item drawable="yiche_price"/>
+<!-- 千牛 -->
+<item drawable="qianniu"/>
+<!-- 轻加减肥 -->
+<item drawable="sythealth_fitness"/>
+<!-- 蜻蜓FM -->
+<item drawable="fm_qingting"/>
+<!-- 情爱小说合集 -->
+<item drawable="qingaixiaoshuo"/>
+<!-- 糗事百科 -->
+<item drawable="qsbk"/>
+<!-- 去吧皮卡丘 -->
+<item drawable="net_crimoon"/>
+<!-- 全民彩票 -->
+<item drawable="quanmincai_caipiao"/>
+<!-- 全民飞机大战 -->
+<item drawable="tencent_feiji"/>
+<!-- 全民奇迹 -->
+<item drawable="qmqj"/>
+<!-- 全民枪神 -->
+<item drawable="risksnipe"/>
+<!-- 全民坦克大战2015 -->
+<item drawable="tkdz"/>
+<!-- 全民突击 -->
+<item drawable="tencent_wefire"/>
+<!-- 全民炫舞 -->
+<item drawable="tencent_ttx5"/>
+<!-- 全民K歌 -->
+<item drawable="tencent_karaoke"/>
+<!-- 烧饼修改器 -->
+<item drawable="sbtools"/>
+<!-- 神魔 -->
+<item drawable="shenmo"/>
+<!-- 时空猎人 -->
+<item drawable="yinhan_hunter"/>
+<!-- 手机电视高清直播 -->
+<item drawable="tvzhibo"/>
+<!-- 搜狗浏览器 -->
+<item drawable="sogou_mobile_explorer"/>
+<!-- 苏宁易购 -->
+<item drawable="suning_ebuy"/>
+<!-- 汤姆猫 -->
+<item drawable="talkingtom"/>
+<!-- 腾讯微博 -->
+<item drawable="tencent_wblog"/>
+<!-- 腾讯新闻 -->
+<item drawable="tencent_news"/>
+<!-- 天猫 -->
+<item drawable="tmall"/>
+<!-- 天天飞车 -->
+<item drawable="tencent_ssgame"/>
+<!-- 天天酷跑 -->
+<item drawable="tencent_pao"/>
+<!-- 天天炫斗 -->
+<item drawable="tencent_vxdgame"/>
+<!-- 天天P图 -->
+<item drawable="tencent_ttpic"/>
+<!-- 铁友火车票12306抢票 -->
+<item drawable="tieyou_train"/>
+<!-- 同程旅游 -->
+<item drawable="tongcheng"/>
+<!-- 途游斗地主 -->
+<item drawable="tuyoo_ddz"/>
+<!-- 土豆视频 -->
+<item drawable="tudou"/>
+<!-- 玩图 -->
+<item drawable="wantu"/>
+<!-- 万能视频播放器 -->
+<item drawable="ggplayer"/>
+<!-- 万能遥控 -->
+<item drawable="remotecontroller_mitv"/>
+<!-- 微会 -->
+<item drawable="yymeet"/>
+<!-- 微锁屏 -->
+<item drawable="vlocker"/>
+<!-- 窝窝 -->
+<item drawable="wowotuan"/>
+<!-- 窝窝小说 -->
+<item drawable="wowo_qqlapp"/>
+<!-- 我查查 -->
+<item drawable="wochacha"/>
+<!-- 我心 -->
+<item drawable="xinliji"/>
+<!-- 舞创天团 -->
+<item drawable="ttxw"/>
+<!-- 喜马拉雅FM -->
+<item drawable="ximalaya"/>
+<!-- 西瓜影音 -->
+<item drawable="xiguaren"/>
+<!-- 下厨房 -->
+<item drawable="xiachufang"/>
+<!-- 相机360 -->
+<item drawable="camera360"/>
+<!-- 响巢看看 -->
+<item drawable="xunlei_kankan"/>
+<!-- 消灭糖果星星 -->
+<item drawable="xmxx_zxb"/>
+<!-- 小奥终极狂飙4 -->
+<item drawable="xiaoao_car3d4"/>
+<!-- 小伴龙 -->
+<item drawable="xiaobanlong"/>
+<!-- 小冰冰传奇 -->
+<item drawable="lilith_dgame"/>
+<!-- 小恩爱 -->
+<item drawable="xiaoenai"/>
+<!-- 炫彩粒子 -->
+<item drawable="sunglab"/>
+<!-- 学霸君 -->
+<item drawable="wenba_bangbang"/>
+<!-- 迅雷 -->
+<item drawable="xunlei_downloadprovider"/>
+<!-- 迅雷影音 -->
+<item drawable="xunlei_cloud"/>
+<!-- 易车 -->
+<item drawable="yiche_autoeasy"/>
+<!-- 易信 -->
+<item drawable="im_yixin"/>
+<!-- 音悦台 -->
+<item drawable="yinyuetai"/>
+<!-- 英语听力速成 -->
+<item drawable="sub_yinyutinlisc"/>
+<!-- 影音先锋 -->
+<item drawable="xfplay"/>
+<!-- 优步-Uber -->
+<item drawable="uber"/>
+<!-- 优酷 -->
+<item drawable="youku_phone"/>
+<!-- 优酷XL -->
+<item drawable="youku_tv"/>
+<!-- 有信电话 -->
+<item drawable="com_yx"/>
+<!-- 有缘网 -->
+<item drawable="youyuan_yyhl"/>
+<!-- 掌上穿越火线 -->
+<item drawable="tencent_qt_sns"/>
+<!-- 掌上基金 -->
+<item drawable="howbuy_palmfund"/>
+<!-- 掌上英雄联盟 -->
+<item drawable="tencent_qt_qtl"/>
+<!-- 找你妹2015 -->
+<item drawable="whereareyoumysister"/>
+<!-- 折800 -->
+<item drawable="tuan800"/>
+<!-- 知乎 -->
+<item drawable="zhihu"/>
+<!-- 知乎日报 -->
+<item drawable="zhihu_daily"/>
+<!-- 智行火车票12306购票 -->
+<item drawable="yipiao"/>
+<!-- 猪猪侠百变消消乐 -->
+<item drawable="ggbond_bblm"/>
+<!-- 追书神器 -->
+<item drawable="zhuishushenqi"/>
+<!-- 字体管家 -->
+<item drawable="xinmei365_font"/>
+<!-- Craz3 Match -->
+<item drawable="tencent_craz3match"/>
+<!-- QQ输入法 -->
+<item drawable="tencent_qqpinyin"/>
+<!-- QQi -->
+<item drawable="tencent_mobileqqi"/>
+<!-- Stars Path -->
+<item drawable="stargather"/>
+<!-- U美直播社区 -->
+<item drawable="uumie"/>
+<!-- UC浏览器 -->
+<item drawable="ucmobile"/>
+<!-- WiFi信号增强器 -->
+<item drawable="syezon_wifi"/>
+<!-- 他趣 -->
+<item drawable="xingjiabi_shengsheng"/>
+<!-- 微信 -->
+<item drawable="tencent_mm"/>
+<!-- 微软必应 -->
+<item drawable="bing"/>
+<!-- AIDE -->
+<item drawable="aide"/>
+<!-- Alto -->
+<item drawable="alto"/>
+<!-- Chrome -->
+<item drawable="chrome"/>
+<!-- Chrome Beta -->
+<item drawable="chrome_beta"/>
+<!-- Chrome Dev -->
+<item drawable="chrome_dev"/>
+<!-- Google -->
+<item drawable="google"/>
 
 
 </resources>
