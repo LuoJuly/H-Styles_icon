@@ -1,0 +1,109 @@
+<resources>
+
+    <!-- App Strings -->
+    <string name="app_name">H₂-Styles</string>
+    <string name="app_name_wallpaper">H₂-Styles  Wallpaper</string>
+
+    <string name="wallpapers">壁纸</string>
+    <string name="icons">图标</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="saved_to_x">Saved to %1$s!</string>
+    <string name="wallpaper_set">壁纸已应用!</string>
+    <string name="apply">应用</string>
+    <string name="save_to_device">保存到设备</string>
+
+    <string name="finish_apply">Select your options and press Apply to finalize!</string>
+    <string name="finish_holo_apply">Go To Appearance settings -> Icon Packs and select this icon pack from the list.</string>
+    <string name="finish_go_apply">Go theme applied!</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="muzei_description">Polar wallpapers.</string>
+    <string name="changelog">更新日志</string>
+    <string name="error">Error</string>
+    <string name="search_icons">搜索图标…</string>
+    <string name="search">搜索</string>
+    <string name="no_results">无</string>
+    <string name="about">关于</string>
+    <string name="request_icons">申请图标</string>
+    <string name="request_icons_x">申请图标 (%1$d)</string>
+    <string name="loading_filter">Loading filter…</string>
+    <string name="loading">加载图标中…</string>
+    <string name="no_apps">无</string>
+    <string name="tap_to_select_app">选择没有覆盖的应用</string>
+    <string name="tap_to_select_app_withremaining">选择没有覆盖的应用 (%1$d remaining)</string>
+    <string name="request_limited">Wait %1$s to request more</string>
+    <string name="icon_request">请求图标</string>
+    <string name="preparing_icon_request">准备中。。。</string>
+    <string name="write_storage_permission_denied">获取读写权限失败!</string>
+    <string name="no_wallpapers">No wallpapers</string>
+    <string name="search_wallpapers">Search wallpapers…</string>
+    <string name="reload_from_web">Reload from Web</string>
+    <string name="downloading_wallpaper">Downloading wallpaper…</string>
+    <string name="not_installed">Not Installed</string>
+    <string name="not_installed_prompt"><![CDATA[<b>%1$s 桌面</b> 还没有安装。是否到Play Store安装?]]></string>
+    <string name="more">更多</string>
+    <string name="more_x">更多 (%1$d)</string>
+    <string name="select_all">选择全部</string>
+    <string name="cool">很棒</string>
+    <string name="dark_theme">暗色主题</string>
+    <string name="invalid_drawable_error"><![CDATA[Invalid drawable <b>%1$s</b>, the developer needs to fix this in <b>/res/xml/drawable.xml</b> and <b>/assets/drawable.xml</b>.]]></string>
+    <string name="set_wallpaper_using">Set Wallpaper Using…</string>
+    <string name="quick_apply">快速应用</string>
+    <string name="quick_apply_desc">快速应用到你的桌面</string>
+
+    <string name="transition_name_circular_reveal" translatable="false">circularReveal</string>
+
+    <string name="invalid_license">Invalid License</string>
+    <string name="invalid_license_description"><![CDATA[Please download <b>%1$s</b> from the Google Play Store! :)]]></string>
+    <string name="invalid_license_description_retry">We were unable to verify your license, would you like to retry? If not, the app will close.</string>
+    <string name="retry">Retry</string>
+    <string name="checking_license">Checking your license…</string>
+
+    <string name="transition_name_recyclerview_item" translatable="false">recyclerViewItem_</string>
+    <string name="drawer_open">Open nav drawer</string>
+    <string name="drawer_close">Close nav drawer</string>
+    <string name="license_valid">Your license was verified, thank you!</string>
+    <string name="request_cancelled">请求已经被取消</string>
+    <string name="home">主页</string>
+    <string name="nav_drawer_mode">MD侧拉风格</string>
+    <string name="zooper">Zooper</string>
+    <string name="klwp">KLWP</string>
+    <string name="kwgt">KWGT</string>
+    <string name="permission_needed">Permission Needed</string>
+    <string name="permission_needed_zooper_desc"><![CDATA[ <b>%1$s</b> needs permission to access your phone\'s storage in order to save Zooper assets!]]></string>
+    <string name="download_cancelled">Download cancelled!</string>
+    <string name="cmte_unavailable">CyanogenMod Theme Engine is not available to this device.</string>
+    <string name="lghome_unavailable">LG Home is not available to this device.</string>
+    <string name="feedback">反馈</string>
+    <string name="donate">Donate</string>
+    <string name="thank_you_donation">Thank you for your generosity!</string>
+    <string name="donation_error">An error occurred during donation: %1$s</string>
+    <string name="email_using">Email using…</string>
+    <string name="unable_to_contact_server">Unable to contact the server! Check your internet connection.</string>
+    <string name="search_widgets">Search widgets…</string>
+    <string name="made_for_zooper">These widgets are made for Zooper Pro</string>
+    <string name="zooper_already_installed">Zooper Pro is already installed!</string>
+    <string name="made_for_klwp">These wallpapers are made for Kustom Wallpaper PRO (KLWP)</string>
+    <string name="made_for_kwgt">These widgets are made for Kustom Widget PRO (KWGT)</string>
+    <string name="kustom_already_installed">Kustom is already installed!</string>
+    <string name="assets_installed">Assets installed successfully!</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="installing_fonts">Installing fonts…</string>
+    <string name="installing_iconsets">Installing iconsets…</string>
+    <string name="installing_bitmaps">Installing bitmaps…</string>
+    <string name="x_version_x">%1$s version: %2$s (%3$d)</string>
+    <string name="select_icon">Select an icon…</string>
+    <string name="default_category">Default Category</string>
+    <string name="go_launcher">GO Launcher</string>
+    <string name="go_launcher_notice"><![CDATA[ If the icons do not apply once you click OK: please open <b>GO Settings</b>, press <b>Icon</b>, and select this icon pack. If you see unthemed icons looking distorted, please disable <b>Show Icon Base</b> in the same menu.]]></string>
+    <string name="request_uploaded">你的请求已经上传到我的服务器, 谢谢!</string>
+    <string name="shortcut_disabled">disabled</string>
+    <string name="menu_label">PY 交易</string>
+    <string name="launcher_label">CoolApk</string>
+
+
+    <string-array name="wallpaper_options" translatable="false">
+        <item>@string/apply</item>
+        <item>@string/save_to_device</item>
+    </string-array>
+
+</resources>
