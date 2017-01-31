@@ -1,8 +1,8 @@
 <resources>
 
     <!-- App Strings -->
-    <string name="app_name">Polar</string>
-    <string name="app_name_wallpaper">Polar Wallpaper</string>
+    <string name="app_name">H₂-Styles</string>
+    <string name="app_name_wallpaper">H₂-Styles  Wallpaper</string>
 
     <string name="wallpapers">Wallpapers</string>
     <string name="icons">Icons</string>
@@ -96,6 +96,10 @@
     <string name="go_launcher">GO Launcher</string>
     <string name="go_launcher_notice"><![CDATA[ If the icons do not apply once you click OK: please open <b>GO Settings</b>, press <b>Icon</b>, and select this icon pack. If you see unthemed icons looking distorted, please disable <b>Show Icon Base</b> in the same menu.]]></string>
     <string name="request_uploaded">Your request has been uploaded to our server, thanks!</string>
+    <string name="shortcut_disabled">disabled</string>
+    <string name="menu_label">PY Transaction</string>
+    <string name="launcher_label">CoolApk</string>
+
 
     <string-array name="wallpaper_options" translatable="false">
         <item>@string/apply</item>

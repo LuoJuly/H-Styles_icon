@@ -4,8 +4,7 @@
     <bool name="changelog_enabled">true</bool>
 
     <string-array name="changelog" translatable="false">
-        <item><![CDATA[ <b>Hello, world!</b> ]]></item>
-        <item><![CDATA[ Your changelog can go in here, you can use <i>HTML formatting</i>.. ]]></item>
+        <item><![CDATA[ Add some new icons! ]]></item>
     </string-array>
 
 </resources>

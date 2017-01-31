@@ -25,8 +25,8 @@
     <!--
         When not forced (false), light status bar mode (dark icons) is used on Marshmallow when your status bar color is light
     -->
-    <bool name="force_light_statusbar_icons_light">false</bool>
-    <bool name="disable_auto_light_statusbar_icons_light">false</bool>
+    <bool name="force_light_statusbar_icons_light">true</bool>
+    <bool name="disable_auto_light_statusbar_icons_light">true</bool>
 
     <!-- Splash screen can only be switched between light and dark themes manually from AndroidManifest.xml -->
     <color name="splash_light_bg">#E0E0E0</color>
@@ -58,7 +58,7 @@
     <!-- Default theme colors, don't change these -->
 
     <color name="default_primary_lighttheme">#4FC3F7</color>
-    <color name="default_primarydark_lighttheme">#29B6F6</color>
+    <color name="default_primarydark_lighttheme">#4FC3F7</color>
     <color name="default_accent_lighttheme">#81D4FA</color>
     <color name="default_accentdark_lighttheme">#4FC3F7</color>
     <color name="default_window_bg_cards_lighttheme">#EAEAEA</color>
@@ -70,10 +70,10 @@
     <color name="default_toolbar_icons_color_lighttheme">#fff</color>
 
     <color name="default_primary_darktheme">#607D8B</color>
-    <color name="default_primarydark_darktheme">#546E7A</color>
+    <color name="default_primarydark_darktheme">#607D8B</color>
     <color name="default_accent_darktheme">#4DB6AC</color>
     <color name="default_accentdark_darktheme">#009688</color>
-    <color name="default_window_bg_cards_darktheme">#546E7A</color>
+    <color name="default_window_bg_cards_darktheme">#607D8B</color>
     <color name="default_tab_indicator_color_darktheme">#F5F5F5</color>
     <color name="default_tab_icon_color_darktheme">#F5F5F5</color>
     <color name="default_tab_ripple_color_darktheme">#BFFFFFFF</color>
